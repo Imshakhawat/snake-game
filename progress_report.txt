@@ -1,0 +1,10 @@
+Date: 1st jul
+
+ 		video: 21.30 mins
+ 		line No: 93
+ Date: 24th jul
+  video': 39.50-46.00 minutes
+   start point : 46.00 mins
+
+   problem facing:java.lang.ArrayIndexOutOfBoundsException
+   its an index related problem
